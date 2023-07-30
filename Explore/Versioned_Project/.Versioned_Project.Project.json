@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "8RJpqntZ0mWbI7KATN5GOb",
+    "name" : "Versioned_Project",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-07-30T15:46:50.080Z",
+  "objectRefs" : [ ]
+}
